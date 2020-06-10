@@ -11,7 +11,7 @@ En caso de versión inferior debe agregar en el archivo de configuracion de mave
        <url>https://repo1.maven.org/maven2</url>
        <mirrorOf>*</mirrorOf>
  mirror
-
+{% endcomment %}
 CLIENTE:
 
 Libreria: 
