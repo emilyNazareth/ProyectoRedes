@@ -5,12 +5,12 @@ Maven-4.0.0 o superior
 
 En caso de versión inferior debe agregar en el archivo de configuracion de maven  en la sección  <mirrors> lo siguiente:
 
-# <mirror>
-#       <id>internal-repository</id>
-#      <name>Maven Repository Manager running on https://repo1.maven.org/maven2</name>
-#       <url>https://repo1.maven.org/maven2</url>
-#       <mirrorOf>*</mirrorOf>
-# </mirror>
+ mirror
+       <id>internal-repository</id>
+      <name>Maven Repository Manager running on https://repo1.maven.org/maven2</name>
+       <url>https://repo1.maven.org/maven2</url>
+       <mirrorOf>*</mirrorOf>
+ mirror
 
 CLIENTE:
 
