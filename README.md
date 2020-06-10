@@ -1,6 +1,8 @@
 # ProyectoRedes
 Requerimentos para ejecutar el FTPServer:
 
+Maven-4.0.0 o superior
+
 CLIENTE:
 
 Libreria: 
