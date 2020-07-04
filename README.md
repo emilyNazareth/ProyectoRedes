@@ -16,7 +16,8 @@ Ya con el proyecto descargado podemos abrir NetBeans y abrir un nuevo proyecto y
 
 ![proy2](https://i.ibb.co/WKDm6Vs/open-proyect.png)
 
-Y está listo para ejecutarse el Servidor, Maven descargar automáticamente las librerias necesarias, en el siguiente apartado en caso de erroes se especifíca que version de Maven se necesita y como solucionarlo. 
+Y está listo para ejecutarse el ServidorFTP. Maven descarga automáticamente las librerias necesarias. 
+En el siguiente apartado ServerFTP se especifíca(en caso de errores) que version de Maven se necesita y como solucionarlo. 
 
 Para Ejecutar el Cliente Revisa los pasos más abajo en el apartado ClienteFTP
 
