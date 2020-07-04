@@ -27,5 +27,10 @@ Libreria:
   ![alt text](https://i.ibb.co/qmRHY5G/Doc2.png)
 
   adentro de la carpeta veremos algo como esto
+  
   ![alt text](https://i.ibb.co/26sBxsx/image.png)
+  
+  Luego, abrimos NetBeans y seleccionamos Abrir proyecto y nos dirijimos a la carpeta donde descargamos el proyecto y seleccionamos el proyecto del cliente y luego, lo abrimos
+  
+  ![alt text](https://i.ibb.co/L8pBqM0/cliente1.png)
   
