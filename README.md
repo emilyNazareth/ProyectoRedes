@@ -15,8 +15,10 @@ En caso de versión inferior debe agregar en el archivo de configuracion de mave
 
 CLIENTE:
 
-Libreria: 
-  Para ejecutar el cliente Primeramente hay que descargar la libreria commons net 3.6 se puede encontrar en el siguiente link:
+Libreria JAR: 
+  Para ejecutar el cliente se utiliza la libreria commons-net-3.6.jar de Apache, al descargar el proyecto desde github ya tiene el commons agregado en las librerias del proyecto pero puede ser no funcione así que habría que borrarla y volverla agregar para lo que hay que seguir los siguientes pasos.
+  
+  Primeramente hay que descargar la libreria commons net 3.6 se puede encontrar en el siguiente link:
 
   https://commons.apache.org/proper/commons-net/download_net.cgi
   
@@ -36,9 +38,14 @@ Libreria:
   
   Una vez abierto, seleccionamos la carpeta librerias del proyecto en Netbeans y le damos click derecho, Agregar Jar/Folder y luego nos dirigimos a la carpeta donde tenemos el commons y seleccionmaos commons-net-3.6.jar
   
-  ![alt text](https://i.ibb.co/m9HPzmm/add-jar.png)
+  ![add-jar](https://i.ibb.co/m9HPzmm/add-jar.png)
   
-  ![alt text](https://i.ibb.co/2twsjs9/add-jar-2.png)
+  ![add-jar2](https://i.ibb.co/2twsjs9/add-jar-2.png)
+  
+  Al final el proyecto debe verse así en Netbeans, Listo para ejecutarse.
+  
+  ![Resultado](https://i.ibb.co/k0PhyHQ/image.png)
+  
   
   
   
