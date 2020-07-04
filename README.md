@@ -20,7 +20,7 @@ Libreria:
 
   https://commons.apache.org/proper/commons-net/download_net.cgi
   
-  ![alt text](https://ibb.co/8Kf4ZcW)
+  ![alt text](https://i.ibb.co/5MSxHFN/Doc1.png)
   una vez descargado se agrega el commos-net-3.6.jar a la librerias del proyecto y está listo para ejecutar.
   
 
