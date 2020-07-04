@@ -34,3 +34,11 @@ Libreria:
   
   ![alt text](https://i.ibb.co/L8pBqM0/cliente1.png)
   
+  Una vez abierto, seleccionamos la carpeta librerias del proyecto en Netbeans y le damos click derecho, Agregar Jar/Folder y luego nos dirigimos a la carpeta donde tenemos el commons y seleccionmaos commons-net-3.6.jar
+  
+  ![alt text](https://i.ibb.co/m9HPzmm/add-jar.png)
+  
+  ![alt text](https://i.ibb.co/2twsjs9/add-jar-2.png)
+  
+  
+  
