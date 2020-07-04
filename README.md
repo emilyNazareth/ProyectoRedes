@@ -21,7 +21,9 @@ Libreria:
   https://commons.apache.org/proper/commons-net/download_net.cgi
   
   ![alt text](https://i.ibb.co/5MSxHFN/Doc1.png)
-  una vez descargado se agrega el commos-net-3.6.jar a la librerias del proyecto y está listo para ejecutar.
   
+  una vez descargado se tendrá un .zio como el siguiente que hay que desempaquetar
+  
+  ![alt text](https://i.ibb.co/qmRHY5G/Doc2.png)
 
 
