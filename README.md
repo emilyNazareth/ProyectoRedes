@@ -2,9 +2,13 @@
 ###### Descargar el Repositorio
 Para obtener este repositorio debes descargarlo desde el botón código(code) y seleccionar descargar cómo zip
 
-![descarga](https://i.ibb.co/p2bqDvq/descargar-repositorio.png")
+![descarga](https://i.ibb.co/p2bqDvq/descargar-repositorio.png)
 
 Al descargarlo tendremos un .zip que debemos desempaquetar y adentro de la carpeta "ProyectoRedes - master" veremos los dos proyectos ClienteFtp y ServerFTP 
+
+![descarga](https://i.ibb.co/hgBxm58/proyecto-zip.png)
+
+![descarga](https://i.ibb.co/0hhyGRT/carpeta.png)
 
 ## ServerFTP
 
