@@ -16,10 +16,11 @@ En caso de versión inferior debe agregar en el archivo de configuracion de mave
 CLIENTE:
 
 Libreria: 
-  Para ejecutar el cliente hay que descargar la libreria commons net 3.6 se puede encontrar en el siguiente link:
+  Para ejecutar el cliente Primeramente hay que descargar la libreria commons net 3.6 se puede encontrar en el siguiente link:
 
   https://commons.apache.org/proper/commons-net/download_net.cgi
-
+  
+  ![alt text](https://ibb.co/8Kf4ZcW)
   una vez descargado se agrega el commos-net-3.6.jar a la librerias del proyecto y está listo para ejecutar.
   
 
