@@ -22,8 +22,10 @@ Libreria:
   
   ![alt text](https://i.ibb.co/5MSxHFN/Doc1.png)
   
-  una vez descargado se tendrá un .zio como el siguiente que hay que desempaquetar
+  una vez descargado se tendrá un .zip como el siguiente que hay que desempaquetar
   
   ![alt text](https://i.ibb.co/qmRHY5G/Doc2.png)
 
-
+  adentro de la carpeta veremos algo como esto
+  ![alt text](https://i.ibb.co/26sBxsx/image.png)
+  
