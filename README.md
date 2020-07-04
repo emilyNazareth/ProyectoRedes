@@ -10,13 +10,29 @@ Al descargarlo tendremos un .zip que debemos desempaquetar y adentro de la carpe
 
 ![descarga](https://i.ibb.co/0hhyGRT/carpeta.png)
 
+Ya con el proyecto descargado podemos abrir NetBeans y abrir un nuevo proyecto y seleccionar el ServerFTP de nuestra carpeta
+
+![proy1](https://i.ibb.co/rpX5Lfx/nuevo-proyecto.png)
+
+![proy2](https://i.ibb.co/WKDm6Vs/open-proyect.png)
+
+Y está listo para ejecutarse el Servidor, Maven descargar automáticamente las librerias necesarias, en el siguiente apartado en caso de erroes se especifíca que version de Maven se necesita y como solucionarlo.
+
 ## ServerFTP
 
 Requerimentos para ejecutar el FTPServer:
 
 Maven-4.0.0 o superior
 
-En caso de versión inferior debe agregar en el archivo de configuracion de maven  en la sección  <mirrors> lo siguiente:
+En caso de versión inferior debe agregar en el archivo de configuracion de maven que se encuentra en donde está instalado Netbeans en este caso esta es la direccion(Pero puede variar si se cambia la direccion por defecto al instalar netbeans):
+```
+  C:\Program Files\NetBeans 8.2 RC\java\maven\conf
+```
+ahí encontraremos el archivo settings.xml que podemos abrir con un bloq de notas
+
+![settings](https://i.ibb.co/MPnCJTq/settings-maven.png)
+
+ Y en la sección  <mirrors> pegar lo siguiente como se ve en la imagen
 ```
 <mirror>
                      <id>internal-repository</id>
@@ -25,6 +41,7 @@ En caso de versión inferior debe agregar en el archivo de configuracion de mave
                      <mirrorOf>*</mirrorOf>
  <mirror>
 ```
+![mirrors](https://i.ibb.co/t822468/mirros-maven.png)
 
 ## ClienteFTP:
 
