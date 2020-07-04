@@ -1,7 +1,12 @@
 # ProyectoRedes
-Descargar el Repositorio, para obtener este repositorio debes descargarlo desde el botón código(code) y seleccionar descargar cómo zip
+######Descargar el Repositorio
+Para obtener este repositorio debes descargarlo desde el botón código(code) y seleccionar descargar cómo zip
 
 ![descarga](https://i.ibb.co/p2bqDvq/descargar-repositorio.png")
+
+Al descargarlo tendremos un .zip que debemos desempaquetar y adentro de la carpeta "ProyectoRedes - master" veremos los dos proyectos ClienteFtp y ServerFTP 
+
+##ServerFTP
 
 Requerimentos para ejecutar el FTPServer:
 
@@ -17,7 +22,7 @@ En caso de versión inferior debe agregar en el archivo de configuracion de mave
  <mirror>
 ```
 
-CLIENTE:
+##ClienteFTP:
 
 Libreria JAR: 
   Para ejecutar el cliente se utiliza la libreria commons-net-3.6.jar de Apache, al descargar el proyecto desde github ya tiene el commons agregado en las librerias del proyecto pero puede ser no funcione así que habría que borrarla y volverla agregar para lo que hay que seguir los siguientes pasos.
