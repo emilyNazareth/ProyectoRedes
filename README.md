@@ -1,4 +1,8 @@
 # ProyectoRedes
+Descargar el Repositorio, para obtener este repositorio debes descargarlo desde el botón código(code) y seleccionar descargar cómo zip
+
+![descarga](https://i.ibb.co/p2bqDvq/descargar-repositorio.png")
+
 Requerimentos para ejecutar el FTPServer:
 
 Maven-4.0.0 o superior
