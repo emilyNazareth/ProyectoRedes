@@ -67,7 +67,7 @@ Libreria JAR:
   
   Luego, abrimos NetBeans y seleccionamos Abrir proyecto y nos dirijimos a la carpeta donde descargamos el proyecto y seleccionamos el proyecto del cliente y luego, lo abrimos
   
-  ![alt text](https://i.ibb.co/Tvtkd3z/cliente2.png)
+   ![alt text](https://i.ibb.co/Tvtkd3z/cliente2.png)
   
   Una vez abierto, aparecerá un mensaje de alerta porque el proyecto no ubica la librería, tenemos que solucionar el problema
   
