@@ -16,7 +16,9 @@ Ya con el proyecto descargado podemos abrir NetBeans y abrir un nuevo proyecto y
 
 ![proy2](https://i.ibb.co/WKDm6Vs/open-proyect.png)
 
-Y está listo para ejecutarse el Servidor, Maven descargar automáticamente las librerias necesarias, en el siguiente apartado en caso de erroes se especifíca que version de Maven se necesita y como solucionarlo.
+Y está listo para ejecutarse el Servidor, Maven descargar automáticamente las librerias necesarias, en el siguiente apartado en caso de erroes se especifíca que version de Maven se necesita y como solucionarlo. 
+
+Para Ejecutar el Cliente Revisa los pasos más abajo en el apartado ClienteFTP
 
 ## ServerFTP
 
@@ -46,7 +48,7 @@ ahí encontraremos el archivo settings.xml que podemos abrir con un bloq de nota
 ## ClienteFTP:
 
 Libreria JAR: 
-  Para ejecutar el cliente se utiliza la libreria commons-net-3.6.jar de Apache, al descargar el proyecto desde github ya tiene el commons agregado en las librerias del proyecto pero puede ser no funcione así que habría que borrarla y volverla agregar para lo que hay que seguir los siguientes pasos.
+  Para ejecutar el cliente se utiliza la libreria commons-net-3.6.jar de Apache, al descargar el proyecto desde github ya tiene el commons agregado en las librerias del proyecto pero es necesario volverla agregar, para ello hay que seguir los siguientes pasos.
   
   Primeramente hay que descargar la libreria commons net 3.6 se puede encontrar en el siguiente link:
 
@@ -64,15 +66,21 @@ Libreria JAR:
   
   Luego, abrimos NetBeans y seleccionamos Abrir proyecto y nos dirijimos a la carpeta donde descargamos el proyecto y seleccionamos el proyecto del cliente y luego, lo abrimos
   
-  ![alt text](https://i.ibb.co/L8pBqM0/cliente1.png)
+  ![alt text](https://i.ibb.co/Tvtkd3z/cliente2.png)
   
-  Una vez abierto, seleccionamos la carpeta librerias del proyecto en Netbeans y le damos click derecho, Agregar Jar/Folder y luego nos dirigimos a la carpeta donde tenemos el commons y seleccionmaos commons-net-3.6.jar
+  Una vez abierto, aparecerá un mensaje de alerta porque el proyecto no ubica la librería, tenemos que solucionar el problema
   
-  ![add-jar](https://i.ibb.co/m9HPzmm/add-jar.png)
+  ![alt text](https://i.ibb.co/s19Xq6z/resolve-problems.png)
   
-  ![add-jar2](https://i.ibb.co/2twsjs9/add-jar-2.png)
+  A continuacion, veremos una ventana que te muestra el problema y damos click en resolver
   
-  Al final el proyecto debe verse así en Netbeans, Listo para ejecutarse.
+  ![alt text](https://i.ibb.co/Rg9h1H2/resolve-problems2.png)
+  
+  En la siguiente ventana nos dirigimos a la carpeta donde tenemos el commons y seleccionmaos commons-net-3.6.jar
+  
+  ![add-jar2](https://i.ibb.co/ThBRzZn/commons2.png)
+  
+  Al final el proyecto debe verse así en Netbeans sin ningún error, listo para ejecutarse.
   
   ![Resultado](https://i.ibb.co/k0PhyHQ/image.png)
   
